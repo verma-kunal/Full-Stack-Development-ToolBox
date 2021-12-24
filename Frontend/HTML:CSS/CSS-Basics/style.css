@@ -1,0 +1,60 @@
+/* h1 {
+    background-color: black;
+    color: white;
+
+    color: blueviolet;  // overriden 
+}
+div {
+    color: aqua;
+}
+p {
+    color: red;
+} */
+
+/*______________________________________________*/
+
+/* Classes */
+
+.blue{
+    color: blue;
+    font-weight: bold;
+}
+.red{
+    color: red;
+}
+
+/*______________________________________________*/
+
+/* IDs */
+
+#myele1{
+    color: green;
+    background-color: black;
+}
+
+#myele2{
+    color: green;
+    background-color: yellow;
+}
+
+/*______________________________________________*/
+
+/* Block-level v/s Inline-level tags in HTML */
+
+p{
+    border: 1px solid black;
+    display: inline;
+}
+
+span{
+    border: 1px solid black;
+    display: block;
+}
+
+
+
+
+
+
+
+
