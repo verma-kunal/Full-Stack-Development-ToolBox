@@ -1,19 +1,26 @@
 #row{
     display: flex;
+    height: 200px;
+    border: 2px solid black;
+    /* justify-content: center; */
+    /* align-items:center; */
 }
 p{
     background-color: blue;
     color: white;
-    height: 100px;
+    /* height: 100px; */
     padding: 0;
     margin: 2px;
 }
 #row div{
     background-color: red;
     color: white;
-    height: 100px;
+    /* height: 100px; */
     flex-grow: 1; 
     margin: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 

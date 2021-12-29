@@ -1,0 +1,30 @@
+/* h1 {
+    /* color: #000000; */
+    /* color: #4d6fe0; */
+    /* color: rgb(35, 218, 80); */
+    /* color: rgba(100, 100, 100, 0.5); 
+
+} */
+
+/* div {
+    border: 2px solid black;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+div{
+    border: 2px solid black;
+    position: relative;
+    margin-top: 200px;
+    margin-left: 30px;
+}
+
+.abs{ /* para 2 */
+    margin: 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
