@@ -15,19 +15,19 @@ p {
 
 /* Classes */
 
-.blue{
+/* .blue{
     color: blue;
     font-weight: bold;
 }
 .red{
     color: red;
-}
+} */
 
 /*______________________________________________*/
 
 /* IDs */
 
-#myele1{
+/* #myele1{
     color: green;
     background-color: black;
 }
@@ -35,13 +35,13 @@ p {
 #myele2{
     color: green;
     background-color: yellow;
-}
+} */
 
 /*______________________________________________*/
 
 /* Block-level v/s Inline-level tags in HTML */
 
-p{
+/* p{
     border: 1px solid black;
     display: inline;
 }
@@ -49,7 +49,12 @@ p{
 span{
     border: 1px solid black;
     display: block;
-}
+} */
+
+/*______________________________________________*/
+
+
+
 
 
 

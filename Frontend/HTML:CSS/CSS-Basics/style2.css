@@ -1,0 +1,23 @@
+#row{
+    display: flex;
+}
+p{
+    background-color: blue;
+    color: white;
+    height: 100px;
+    padding: 0;
+    margin: 2px;
+}
+#row div{
+    background-color: red;
+    color: white;
+    height: 100px;
+    flex-grow: 1; 
+    margin: 2px;
+}
+
+
+
+
+
+
